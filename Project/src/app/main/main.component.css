@@ -1,0 +1,12 @@
+div#addStudent {
+    width: 40%;
+    margin: 15px;
+    float: left;
+}
+div#displayStudents {
+    width: 40%;
+    float: left;
+}
+button.btn.btn-primary {
+    margin-left: 10px;
+}
